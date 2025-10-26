@@ -30,8 +30,13 @@ body {
     max-width: 600px;
     margin: auto;
     font-family: 'Merriweather', Arial, sans-serif;
+    font weight: 400;
 }
 
 h1 {
     font-family: "freightround_probold", Arial, sans-serif;
+}
+
+footer p {
+    font-weight: 700;
 }
